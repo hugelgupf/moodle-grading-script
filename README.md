@@ -11,6 +11,6 @@ properly graded. Checks against:
 Install
 -------
 
-Use the TamperMonkey plugin for Chrome/Chromium/Opera and the GreaseyMonkey
+Use the TamperMonkey plugin for Chrome/Chromium/Opera and the GreaseMonkey
 plugin for FireFox to install this userscript. See
 [one of these install guides](https://greasyfork.org/help/installing-user-scripts).
